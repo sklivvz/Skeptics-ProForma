@@ -1,0 +1,32 @@
+###[A] No references.
+Please [provide some references](http://meta.skeptics.stackexchange.com/q/5) to support your claims.
+
+###[A] Should be a comment.
+This isn't a full [referenced answer](http://meta.skeptics.stackexchange.com/q/5), but more of an anecdote/an opinion/a clarification/a comment. When you get enough reputation, you will be able to comment rather than answer. I will convert this to a comment.
+
+###[Q] No references.
+We want to focus our attention on doubtful claims that are widely held or are made by notable people.  Please [provide some references](http://meta.skeptics.stackexchange.com/questions/882/what-are-the-attributes-of-a-good-question/883#883) to places where this claim is being made.
+
+###[A] Anecdote
+This is an anecdote. The Internet is full of untrue anecdotes, and we have no way of assessing whether one is true and whether it always applies. Therefore, they are not acceptable here. The answer [has been deleted in accordance with policy](http://meta.skeptics.stackexchange.com/questions/1054/guidelines-for-inadequately-referenced-answers). Please edit it to add references to empirical data and flag it for moderator attention in order to get it reinstated.
+
+###[Q] No claim.
+According to the [FAQ](http://$SITEURL$/faq#questions), $SITENAME$.SE is for researching the evidence behind the claims you hear or read. This question doesn't appear to have any doubtful claims to investigate. Please edit it to reference a notable claim and flag for moderator attention to re-open (or get 5 re-open votes).
+
+###[A] Just Thanks!
+Please don't add "thanks" as answers. Invest some time in the site and you will gain sufficient [privileges](http://$SITEURL$/privileges) to upvote answers you like, which is the $SITENAME$ way of saying thank you.
+
+###[A] Nothing but a URL (and isn't spam)
+Whilst this may theoretically answer the question, [it would be preferable](http://meta.stackoverflow.com/q/8259) to include the essential parts of the answer here, and provide the link for reference.
+
+###[A] Requests to OP for further information
+This is really a comment, not an answer. With a bit more rep, [you will be able to post comments](http://$SITEURL$/privileges/comment). For the moment I've added the comment for you, and I'm flagging this post for deletion.
+
+###[A] OP using an answer for further information
+Please use the *Post answer* button only for actual answers. You should modify your original question to add additional information.
+
+###[A] OP adding a new question as an answer
+If you have another question, please ask it by clicking the [Ask Question](http://$SITEURL$/questions/ask) button.
+
+###[A] Another user adding a 'Me too!'
+If you have a NEW question, please ask it by clicking the [Ask Question](http://$SITEURL$/questions/ask) button. If you have sufficient reputation, [you may upvote](http://$SITEURL$/privileges/vote-up) the question. Alternatively, "star" it as a favorite and you will be notified of any new answers.
