@@ -13,6 +13,9 @@ This is an anecdote. The Internet is full of untrue anecdotes, and we have no wa
 ###[Q] No claim.
 According to the [FAQ](http://$SITEURL$/faq#questions), $SITENAME$.SE is for researching the evidence behind the claims you hear or read. This question doesn't appear to have any doubtful claims to investigate. Please edit it to reference a notable claim and flag for moderator attention to re-open (or get 5 re-open votes).
 
+###[A] Theoretical answer
+This is a theoretical answer, but we expect answers to be based on facts - not to make a speculative prediction. I am deleting it for this reason.
+
 ###[A] Just Thanks!
 Please don't add "thanks" as answers. Invest some time in the site and you will gain sufficient [privileges](http://$SITEURL$/privileges) to upvote answers you like, which is the $SITENAME$ way of saying thank you.
 
